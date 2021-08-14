@@ -1,0 +1,13 @@
+.main__tables-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-detail__cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.plans-container__cards{
+    justify-content: center;
+    overflow-x: unset;
+}
